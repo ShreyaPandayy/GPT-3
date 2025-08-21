@@ -1,0 +1,4 @@
+To run - bash ---
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start
