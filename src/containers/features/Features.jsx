@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Innovating Businesses Instantly',
+    text: 'We help businesses transform and grow with innovative digital solutions. From smart applications to streamlined workflows, every project is designed to deliver results that make an impact immediately.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Empowering Active Growth',
+    text: 'Our team works closely with clients to identify opportunities and implement strategies that drive engagement, efficiency, and scalability. We turn ideas into action and growth into results.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Seamless Communication & Collaboration',
+    text: 'We create platforms and solutions that make team collaboration effortless and client interactions smooth. Communication, project management, and workflow automation all come together in one seamless experience.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Building Future-Ready Solutions',
+    text: 'From AI-driven applications to robust web platforms, our solutions are designed to keep your business ahead in a rapidly changing digital world. Innovation, reliability, and user-focused design are at the heart of everything we build.',
   },
 ];
 

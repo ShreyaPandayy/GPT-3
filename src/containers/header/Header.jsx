@@ -6,8 +6,14 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <h1 className="gradient__text">
+        Let&apos;s Build Something amazing with ETERNA DIGITAL
+      </h1>
+      <p>
+        Our mission is to bridge technology and creativity, delivering digital
+        experiences that leave a lasting impact. We envision a world where
+        businesses grow effortlessly through smart and scalable tech solutions.
+      </p>
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />

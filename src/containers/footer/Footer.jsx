@@ -15,7 +15,7 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
+        <p>ETERNA DIGITAL <br /> All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
@@ -32,14 +32,14 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>New Delhi, India</p>
-        <p>085-123456789</p>
-        <p>info@payme.net</p>
+        <p>Global Team – Fully Remote</p>
+        <p>+91-8756421349</p>
+        <p>info.eternadigital@gmail.com</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2025 GPT-3. All rights reserved.</p>
+      <p>@2025 ETERNA. All rights reserved.</p>
     </div>
   </div>
 );

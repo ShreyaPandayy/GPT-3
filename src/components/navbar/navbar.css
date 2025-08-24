@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 2rem 6rem;
 }
 
@@ -15,11 +14,16 @@
 
 .gpt3__navbar-links_logo {
     margin-right: 2rem;
+    font-size: 24px;
+    /* adjust text size if logo is text */
+    font-weight: bold;
+    color: #fff;
+    /* white logo */
 }
 
-.gpt3__navbar-links_logo img {
-    width: 62.56px;
-    height: 16.02px;
+.gpt3__navbar-links_logo svg path {
+    fill: #fff;
+    /* white logo if inline SVG */
 }
 
 .gpt3__navbar-links_container {
@@ -42,7 +46,6 @@
     font-size: 18px;
     line-height: 25px;
     text-transform: capitalize;
-
     margin: 0 1rem;
     cursor: pointer;
 }
@@ -64,7 +67,6 @@
 
 .gpt3__navbar-menu {
     margin-left: 1rem;
-
     display: none;
     position: relative;
 }
@@ -78,7 +80,6 @@
     justify-content: flex-end;
     align-items: flex-end;
     flex-direction: column;
-    
     text-align: end;
     background: var(--color-footer);
     padding: 2rem;
@@ -88,7 +89,7 @@
     margin-top: 1rem;
     min-width: 210px;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0,0, 0,0.2);
+    box-shadow: 0px 0px 5px rgba(132, 120, 120, 0.2);
 }
 
 .gpt3__navbar-menu_container p {
